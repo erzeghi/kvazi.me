@@ -3,7 +3,7 @@ name: Sync with S3
 on:
   push:
     branches:
-    - experiment-action
+    - main
 
 jobs:
   deploy:
